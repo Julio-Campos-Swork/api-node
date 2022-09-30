@@ -1,7 +1,7 @@
 # rest-api-node
 rest api
 
-install all packages
+npm init
 
 npm i dotenv -D
 
